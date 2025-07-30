@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 I'm **Sifan Momin**, a Computer Engineering student passionate about **Data Science, Machine Learning, and Generative AI**.  
-I love building **intelligent agents**, **voice-enabled AI systems**, and **data-driven solutions** that make real-world impact.
 
----
 
 ### 🔭 I’m currently working on
 - Building **Agentic AI systems** using LangChain, Vector DBs & Agent-to-Agent protocols  
